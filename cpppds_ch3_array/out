@@ -1,0 +1,562 @@
+
+[UnsortedType_Array_Implementation]
+
+Length is 0
+5 is in list
+7 is in list
+6 is in list
+9 is in list
+5769
+1 is in list
+57691
+4 not in list.
+5 found in list.
+9 found in list.
+10 not in list.
+List is full.
+5 is deleted
+List is not full.
+1 is deleted
+6 is deleted
+9 is deleted
+7
+
+[UnsortedType_Array_Implementation_Test2]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+6 is in list
+7 is in list
+List is not full.
+1234557
+7 found in list.
+1 found in list.
+2 found in list.
+3 found in list.
+7 is deleted
+1 is deleted
+62345
+2 is deleted
+List is not full.
+6534
+
+[IsThereArray]
+
+[IsThereArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 found in list.
+3 found in list.
+1 is deleted
+5234
+
+[IsThereArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+3 found in list.
+1 is deleted
+5234
+
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+
+
+3 - This is the value for the split
+12345
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[SplitListsArray]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+
+45431545637077528501280820108800-100
+3 - This is the value for the split
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+
+45-1370775285012801265753600-100
+3 - This is the value for the split
+
+[split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+707752870775000
+12345537077528707750001280200
+3 - This is the value for the split
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[SplitF]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+707752870775000
+12345537077528707750001280200
+
+[SplitFF]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+123
+
+12345
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+123
+
+12345
+[SplitFF]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+
+455370775285012801370616800-100
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+
+45537077528501280892204000-100
+
+[Test]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+
+455370775285012801541010400-100
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+123
+
+12345
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+123
+
+12345
+[SplitP]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+333
+33
+12345
+[SplitFinal]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+12345
+List is full.
+3 is there in the list
+3 - This is the value for the split
+123
+45
+12345
+[FinalTest]
+
+Length is 0
+2 is in list
+4 is in list
+1 is in list
+3 is in list
+5 is in list
+24135
+List is full.
+3 is there in the list
+3 - This is the value for the split
+213
+45
+24135
+[IsThere2]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+3 is there in the list
+3 found in list.
+1 is deleted
+5234
+
+[IsThereFinal]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+3 found in list.
+1 is deleted
+5234
+
+[IsThere2Final]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is full.
+3 is there in the list
+3 is there in the list
+3 found in list.
+1 is deleted
+5234
+
+[SplitListsFinal]
+
+Length is 0
+2 is in list
+4 is in list
+1 is in list
+3 is in list
+5 is in list
+24135
+List is full.
+3 is there in the list
+3 - This is the value for the split
+213
+45
+24135
+[SplitListsFinal]
+
+Length is 0
+2 is in list
+4 is in list
+1 is in list
+3 is in list
+5 is in list
+24135
+List is full.
+3 is there in the list
+3 - This is the value for the split
+213
+45
+24135

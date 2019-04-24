@@ -1,0 +1,25 @@
+GetLength
+PutItem 1
+PutItem 2
+PutItem 3
+PutItem 4
+PutItem 5
+IsFull
+PutItem 6
+PutItem 7
+IsFull
+PrintList
+GetItem 7
+GetItem 1
+GetItem 2
+GetItem 3
+DeleteItem 7
+DeleteItem 1
+PrintList
+DeleteItem 2
+IsFull
+PrintList
+MakeEmpty
+PrintList
+Hululu
+Quit

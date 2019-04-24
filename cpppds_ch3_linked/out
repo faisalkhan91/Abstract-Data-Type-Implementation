@@ -1,0 +1,456 @@
+[UnsortedType_Linked_Implementation]
+
+Length is 0
+5 is in list
+7 is in list
+6 is in list
+9 is in list
+9675
+1 is in list
+19675
+4 not in list.
+5 found in list.
+9 found in list.
+10 not in list.
+List is not full.
+5 is deleted
+List is not full.
+1 is deleted
+6 is deleted
+9 is deleted
+7
+
+[UnsortedType_Linked_Implementation_Test2]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is not full.
+6 is in list
+7 is in list
+List is not full.
+7654321
+7 found in list.
+1 found in list.
+2 found in list.
+3 found in list.
+7 is deleted
+1 is deleted
+65432
+2 is deleted
+List is not full.
+6543
+
+[IsThereLinked]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is not full.
+6 is in list
+7 is in list
+List is not full.
+7654321
+7 found in list.
+1 found in list.
+2 found in list.
+3 found in list.
+7 is deleted
+1 is deleted
+65432
+2 is deleted
+List is not full.
+6543
+
+[IsThereLinked]
+
+[IsThereLinked]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is not full.
+3 is there in the list.
+3 found in list.
+1 is deleted
+5432
+
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+54321
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+
+
+54321
+[Split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[split]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[SplitT]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[Splitt]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+333
+
+54321
+[Splitt]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+[Splitttt]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+345
+
+54321
+[Splitttt]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+
+54321
+[Splitttt]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+345
+54321
+[Splititititi]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+54321
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+3
+45
+54321
+[SplitFinal]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+3
+5
+53412
+[Splitlists]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+3
+5
+53412
+[Split]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+3
+5
+53412
+[Spliting]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+[SplitF]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+[splitk]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+[splith]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+[Splitq]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+213
+45
+53412
+[Final]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+213
+45
+53412
+[FinalTest]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+213
+45
+53412
+[IsThere2]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is not full.
+3 is there in the list.
+3 is there in the list.
+3 found in list.
+1 is deleted
+5432
+
+[IsThereFinal]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is not full.
+3 is there in the list.
+3 found in list.
+1 is deleted
+5432
+
+[SplitListsFinal]
+
+Length is 0
+2 is in list
+1 is in list
+4 is in list
+3 is in list
+5 is in list
+53412
+List is not full.
+3 is there in the list.
+3 - This is the value for the split
+213
+45
+53412
+[IsThere2Final]
+
+Length is 0
+1 is in list
+2 is in list
+3 is in list
+4 is in list
+5 is in list
+List is not full.
+3 is there in the list.
+3 is there in the list.
+3 found in list.
+1 is deleted
+5432
+
